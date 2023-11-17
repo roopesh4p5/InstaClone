@@ -1,0 +1,38 @@
+.centre{
+    display: flex;
+    justify-content: center;
+}
+.notfound{
+    position: sticky; ;
+    left: 20vw;
+    top: 0px;
+   
+    width: 82vw;
+    display: flex;
+    justify-content: center;
+}
+.error-message-container {
+    text-align: center;
+    padding: 40px;
+}
+
+.error-message-text {
+    font-size: 1.4rem;
+    font-weight: bolder;
+}
+
+.error-details-container {
+    text-align: center;
+    padding: 40px;
+
+}
+
+.error-details-text {
+    font-size: 1rem;
+}
+
+.go-back-link {
+    font-size: 1rem;
+    color: rgb(39, 39, 107);
+    text-decoration: none;
+}

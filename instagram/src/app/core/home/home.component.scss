@@ -1,0 +1,71 @@
+.flex {
+    display: flex;
+}
+
+.home {
+    position: sticky;
+    ;
+    left: 20vw;
+    top: 0px;
+
+    width: 82vw;
+    display: flex;
+    justify-content: center;
+}
+
+.middle {
+    width: 50%;
+}
+
+.side {
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    width: 20vw;
+    height: 100vh;
+
+}
+
+.posts {
+    width: 65%;
+    min-height: 500px;
+    margin-left: 10.6vw;
+}
+
+.top-post{
+    display: flex;
+    justify-content: space-between;
+}
+.left-top-post{
+    display: flex;
+
+}
+.username{
+    padding-top: 10px;
+}
+
+.top-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 10px;
+}
+.thepost{
+    width: 100%;
+}
+
+.postimage{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.lcss{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.postdetails{
+    padding: 0 10px;
+}
+

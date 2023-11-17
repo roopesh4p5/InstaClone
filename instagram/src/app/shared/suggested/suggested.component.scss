@@ -1,0 +1,54 @@
+.user-suggestion {
+    width: 16vw;
+    font-size: .9rem;
+}
+.profile{
+    padding-top: 50px;
+}
+.see-all-link{
+    text-decoration: none;
+    color: black;
+}
+.user-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.profile-link{
+    color: black;
+    text-decoration: none;
+}
+.user-profile-info {
+    display: flex;
+
+}
+
+.user-profile {
+    display: flex;
+    padding: 10px 0px;
+}
+
+.user-follow-info {
+    font-size: .8rem;
+    width:10vw;
+    height: 20px;
+    white-space: nowrap;
+ 
+    overflow: hidden;
+    text-overflow: ellipsis;
+  
+}
+
+.follow-button {
+    border: none;
+    background-color: transparent;
+    font-size: .8rem;
+    color: blue;
+}
